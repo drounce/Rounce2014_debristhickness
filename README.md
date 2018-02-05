@@ -1,6 +1,6 @@
 # Rounce2014_debristhickness
 ## Scripts:
-**Rounce2014_debristhickness.m**
+### Rounce2014_debristhickness.m
 Matlab script that calculates the debris thickness of debris-covered glaciers from Landsat surface temperature data.
 
 ## Contact:
